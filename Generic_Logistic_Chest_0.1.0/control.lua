@@ -1,6 +1,6 @@
 require "defines"
 
-debug_mode = true
+debug_mode = false
 
 supportedChests = {	"generic-logistic-chest-passive-provider",
 					"generic-logistic-chest-active-provider",
