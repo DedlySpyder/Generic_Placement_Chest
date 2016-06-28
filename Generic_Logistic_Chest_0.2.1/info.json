@@ -5,5 +5,6 @@
   "author": "DedlySpyder",
   "contact": "DedlySpyder@gmail.com",
   "homepage": "",
-  "description": ""
+  "description": "Allows the player to make a special chest that can be turned into any of the base game logistic chests.",
+  "factorio_version": "0.13"
 }
