@@ -1,5 +1,3 @@
-require "defines"
-
 --Toggles debug mode
 debug_mode = false
 
